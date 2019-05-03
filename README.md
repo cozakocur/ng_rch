@@ -1,12 +1,16 @@
 Instruction how to create ready to run version of automated tests using Java and Maven.
 
 ##Setup
+
 1 .Install Java development kit 11 from:
 https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html
+
 2. After install add Java to the system path, instruction for Windows:
 https://javatutorial.net/set-java-home-windows-10
+
 3. Install Maven with adding to the system path:
 https://maven.apache.org/install.html
+
 4. Using https://chocolatey.org/ you can install google chrome driver as browser for tests:
 `choco install chromedriver`
 
