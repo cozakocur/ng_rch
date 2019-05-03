@@ -18,6 +18,8 @@ https://maven.apache.org/install.html
 
 `choco install chromedriver`
 
+There will be downloaded latest version of chromedriver, so please be sure your browser is in latest version (74~).
+
 #### 5. In console you will see where your chromedriver will be installed then just add the path to `chromedriver.exe` as system path (like Java and Maven before).
 
 #### 6. Now you should clone repository, for example using command:
