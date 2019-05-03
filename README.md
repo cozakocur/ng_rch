@@ -1,4 +1,4 @@
-Instruction how to create ready to run version of automated tests using Java and Maven.
+## Instruction how to create ready to run version of automated tests using Java and Maven. ##
 
 ## Setup
 
