@@ -33,5 +33,5 @@ Now in the console you will see informations about tests - that tests passed or 
 After everything goes successfully in the folder of test repository will be new folder called `target`. In this folder you should go into `/site/serenity/` and open `index.html` for example in Google Chrome browser.
 
 Now you can see full report of our two tests that was done with the features, data and stories writes in cucumber.
-![Image of report](https://imgur.com/R50PPCx)
+![Image of report](https://i.imgur.com/R50PPCx.png)
 
