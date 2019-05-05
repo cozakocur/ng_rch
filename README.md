@@ -24,7 +24,7 @@ There will be downloaded latest version of chromedriver, so please be sure your 
 
 #### 6. Now you should clone repository, for example using command:
 
-`git clone git@github.com:rchowaniak/NG-recru.git`
+`git clone git@github.com:remsoon/ng_rch.git`
 
 #### 7. If everything goes well, move to the directory where is the repository of our tests, open there command line and put command:
 
